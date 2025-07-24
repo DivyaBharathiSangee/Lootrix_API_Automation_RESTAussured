@@ -1,0 +1,1 @@
+# Lootrix_API_Automation_RESTAussured
